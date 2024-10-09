@@ -17,7 +17,7 @@ This repository contains PHP source codes for Object-oriented Programming (OOP) 
 6. Create a `Bus` child class that inherits from the `Vehicle` class. The default fare charge of any vehicle is seating capacity * 100. If the Vehicle is a Bus instance, an extra 10% of the total fare is added as a maintenance charge. So the total fare for the Bus instance will be:  
    `final amount = total fare + 10% of the total fare`
 
-Note: The bus seating capacity is 50. so, the final fare amount should be 5500. 
-You need to override the fare() method of a Vehicle class in Bus class.
+   Note: The bus seating capacity is 50. so, the final fare amount should be 5500. 
+   You need to override the fare() method of a Vehicle class in Bus class.
 
 ### Submitted By: Mac Elroy C. Badar (BSCS-2A)
