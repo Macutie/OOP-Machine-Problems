@@ -1,6 +1,7 @@
 # Object-oriented Machine Problems Activity
 
 This repository contains PHP source codes for Object-oriented Programming (OOP) activity. Each problem has a designated separate files based from the instructions given.
+PS. I tried to put an output to verify if the child class inherited the attributes/methods from the parent class.
 
 ## Problems
 
